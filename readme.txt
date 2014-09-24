@@ -1,3 +1,1 @@
-Hello!How are you?
-
-This is Joe
+This contains the solution to the exercises of the NodeJs tutorial called "learnyounode" found at www.nodeschool.io.
